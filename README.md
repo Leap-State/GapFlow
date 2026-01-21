@@ -51,3 +51,6 @@ Integration with real LLM outputs.
 Embedding-based semantic retrieval for similar contexts.
 Persistent cloud storage for multi-session reuse.
 Automated metrics dashboards for efficiency tracking.
+## License
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+You are free to use, modify, and distribute this work, with proper attribution to the author © Marta Reinhardt 
