@@ -2,7 +2,7 @@
 
 > **"Don't waste the logic. Recycle the system to AI."**
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.xxxxxxx-blue.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.xxxxxxx-blue.svg)](https://doi.org/10.5281/zenodo.18331181)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 ![Field: AI Infrastructure](https://img.shields.io/badge/Field-AI%20Infrastructure-green.svg)
 
@@ -56,5 +56,5 @@ Jupyter/Colab (Research Environment)
 Gap Flow Protocol (Semantic Recycling Logic)
 📄 Citation & Intellectual Property
 This project is registered on Zenodo and is authored by Marta Reinhardt. If you utilize this protocol or the "Gap Recycling" concepts in production systems, please cite as follows:
-Reinhardt, M. (2026). Project Gap Flow: A Semantic Context Recycling Protocol for Large Language Models. Zenodo DOI: 10.5281/zenodo.xxxxxxx
+Reinhardt, M. (2026). Project Gap Flow: A Semantic Context Recycling Protocol for Large Language Models. Zenodo DOI: https://doi.org/10.5281/zenodo.18331181
 “We don't need more data; we need to stop wasting the logic we have already created.”
