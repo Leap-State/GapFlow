@@ -2,7 +2,7 @@
 
 > **"Don't waste the logic. Recycle the system to AI."**
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.xxxxxxx-blue.svg)](https://doi.org/10.5281/zenodo.18331181)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18331181-blue.svg)](https://doi.org/10.5281/zenodo.18331181)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 ![Field: AI Infrastructure](https://img.shields.io/badge/Field-AI%20Infrastructure-green.svg)
 
