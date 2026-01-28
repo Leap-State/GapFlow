@@ -3,7 +3,7 @@
 > **"Don't waste the logic. Recycle the system to AI."**
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18331181-blue.svg)](https://doi.org/10.5281/zenodo.18331181)
-![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+![License: APACHE 2.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 ![Field: AI Infrastructure](https://img.shields.io/badge/Field-AI%20Infrastructure-green.svg)
 
 
@@ -52,5 +52,4 @@ Embedding-based semantic retrieval for similar contexts.
 Persistent cloud storage for multi-session reuse.
 Automated metrics dashboards for efficiency tracking.
 ## License
-This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
-You are free to use, modify, and distribute this work, with proper attribution to the author © Marta Reinhardt 
+APACHE 2.0
